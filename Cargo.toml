@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Florian Blöchinger"]
 license = "MIT"
 repository = "https://github.com/Florian-Bloechinger/threadpool-rs"
+description = "RustThreadpool is a lightweight, easy-to-use library for managing concurrent tasks in your Rust applications. It provides a simple API to create and manage a pool of threads, allowing you to efficiently execute tasks in parallel."
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
